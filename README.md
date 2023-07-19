@@ -6,4 +6,6 @@
 
 # cd RISAT
 
+# git pull
+
 # python RISAT.py
